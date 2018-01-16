@@ -1,0 +1,142 @@
+.title {
+  margin: 50px auto;
+  width: 80%;
+}
+
+.title h1{
+  text-align: Center;
+  font-family: 'Playfair Display', serif;
+}
+
+.lyrics p{
+  width: 500px;
+  margin: 10px 15px;
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 16px;
+  color: white;
+  text-align: left;
+  word-spacing: 0.4em;
+  letter-spacing:0.2em;
+  line-height: 1;
+  opacity: 1;
+}
+
+.lyrics{
+  margin: 50px auto;
+  width: 80%;
+}
+
+.part1{
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+}
+
+.part2{
+  background-size: cover;
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+  top: -10px;
+  left: 20px;
+}
+
+.part3{
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+}
+
+.part4{
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+  top: -20px;
+  left: 20px;
+}
+
+.part5{
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+  top: 10px;
+}
+
+.part6{
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+}
+
+.part7{
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+  top: -10px;
+  left: 10px;
+}
+
+.part8{
+  width: 500px;
+  height: 100px;
+  overflow: hidden;
+  margin: auto;
+  position: relative;
+  top: 10px;
+}
+
+.lyrics img{
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  opacity: 0.4;
+  z-index: -1;
+}
+
+.part1:hover img{
+  opacity: 1;
+}
+
+.part2:hover img{
+  opacity: 1;
+}
+
+.part3:hover img{
+  opacity: 1;
+}
+
+.part4:hover img{
+  opacity: 1;
+}
+
+.part5:hover img{
+  opacity: 1;
+}
+
+.part6:hover img{
+  opacity: 1;
+}
+
+.part7:hover img{
+  opacity: 1;
+}
+
+.part8:hover img{
+  opacity: 1;
+}
