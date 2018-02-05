@@ -1,0 +1,37 @@
+// html skeleton
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+  <script src="script.js"></script>
+</head>
+<body>
+
+</body>
+</html>
+
+
+//link jQuery  this must happen before linking js file to html!
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+
+
+//link jquery UI
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.1/jquery-ui.min.js"></script>
+
+
+// jquery skeleton
+$(document).ready(function(){
+
+});
+
+
+// use js in html file <head>
+<script type="text/javascript">
+</script>
